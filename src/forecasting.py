@@ -47,3 +47,4 @@ def evaluate_prophet(model, test_df):
 
     return forecast, accuracy, rmse
 
+
