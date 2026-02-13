@@ -46,6 +46,7 @@ Forecast the next 12 months of passenger traffic to help airlines with:
 **Final 12-Month Forecast:**
 
 ![Final Forecast](images/prophet_forecast.png)
+![Train vs Test vs Forecast](_images/prophet_test_comparison.png)
 
 ---
 
@@ -82,4 +83,5 @@ time-series-forecasting-air-passengers/
 │   └── prophet_forecast.png         # Forecast for next 12 months
 │   └── prophet_test_comparison.png  #Train vs Test vs Forecast  
 ├── requirements.txt                 # Dependencies
+
 └── README.md                        # Full project explanation
