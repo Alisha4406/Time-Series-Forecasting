@@ -64,7 +64,7 @@ Forecast the next 12 months of passenger traffic to help airlines with:
 ---
 
 ## 📁 Folder Structure
-
+```
 time-series-forecasting-air-passengers/
 │
 ├── data/
@@ -85,5 +85,6 @@ time-series-forecasting-air-passengers/
 ├── requirements.txt                 # Dependencies
 
 └── README.md                        # Full project explanation
+```
 
 
